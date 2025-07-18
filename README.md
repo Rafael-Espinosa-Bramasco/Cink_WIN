@@ -1,6 +1,6 @@
 # C Ink
 
-Make you console apps behave better!
+Make your console apps behave better!
 
 ## Install
 
